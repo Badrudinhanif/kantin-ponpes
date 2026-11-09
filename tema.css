@@ -1,0 +1,11 @@
+/* TEMA — diubah otomatis oleh customizer Maliki Studio (malikisaputra.biz.id/kode) */
+:root {
+  --tema-utama: #7c3aed;    /* warna brand utama (tombol, tautan, sorotan) */
+  --tema-aksen: #06b6d4;    /* warna aksen kedua (badge, grafik, highlight) */
+  --tema-radius: 16px;      /* sudut kartu/tombol */
+  --tema-font: "DM Sans", system-ui, sans-serif;
+  --tema-latar: #cfcfcf;   /* latar halaman */
+  --tema-panel: #eeeded;   /* kartu/panel/form */
+  --tema-nav: #9c9d6c;   /* sidebar/header/nav bawah */
+  --tema-teks: #17201a;   /* teks utama */
+}
